@@ -1,4 +1,10 @@
 
-That is a utility tool to draw make file tree.
 
-Thus it is possible to evaluate project modularity.
+That is a utility tool to draw a make file tree of the project.
+
+1) Utility scans source code and assembles *.dot file.
+2) Launches utility called dot to convert *.dot file to *.svg file 
+3) Launches iexplore.exe browser in order to render *.svg file
+
+Thus it is possible to evaluate project modularity. (See example in *.svg).
+
